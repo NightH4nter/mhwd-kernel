@@ -1,6 +1,6 @@
 # mhwd-kernel
 
-From here: https://wiki.manjaro.org/index.php?title=Mhwd-kern.sh.
+The script is taken from here: https://wiki.manjaro.org/index.php?title=Mhwd-kern.sh. Instructions are written myself.
 
 I do not own the script. Copyright goes to it's authors (Joshua and some more people).
 
