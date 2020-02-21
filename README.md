@@ -8,7 +8,7 @@ Some screenshots here: https://imgur.com/gallery/7gA7esT.
 
 
 Installation:
-1. Add Manjaro repo.
+1. Add Manjaro repository.
 
     1.1. Make a repository mirrorlist file /etc/pacman.d/mirrorlist-manjaro with one or more repository address. 
     
