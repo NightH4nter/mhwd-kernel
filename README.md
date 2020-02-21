@@ -19,20 +19,24 @@ Usage:
          [core]
          Include = /etc/pacman.d/mirrorlist-manjaro
 2. Run sync-update:
-    # pacman -Syyu
+
+        pacman -Syyu
 3. Install Manjaro keyring.
-    # pacman -S manjaro-keyring
+
+        pacman -S manjaro-keyring
 4. Install MHWD.
-    # pacman -S mhwd
+
+        pacman -S mhwd
    If you don't want to user the script, finish here. Proceed to using MHWD. Otherwise, continue.
 5. Clone this repository and cd into it's folder.
 
-    $ git clone https://github.com/NightH4nter/mhwd-kernel.git
+        $ git clone https://github.com/NightH4nter/mhwd-kernel.git
     
-    $ cd mhwd-kernel
+        $ cd mhwd-kernel
 6. Make the script bootable and run it:
-    # chmod +x mhwd-kern.sh
-    # ./mhwd-kern.sh
+
+        chmod +x mhwd-kern.sh
+        ./mhwd-kern.sh
 Done!
 
 You may also consider moving the script somewhere and/or making an alias for regular usage.
