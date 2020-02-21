@@ -18,7 +18,7 @@ Usage:
     
          [core]
          Include = /etc/pacman.d/mirrorlist-manjaro
-2. Run sync-update:
+2. Run sync-upgrade:
 
         sudo pacman -Syyu
 3. Install Manjaro keyring.
