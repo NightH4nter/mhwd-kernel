@@ -31,7 +31,7 @@ Installation:
 4. Install MHWD.
 
         sudo pacman -S mhwd
-   If you don't want to user the script, finish here. Proceed to using MHWD. Otherwise, continue.
+   If you don't want to use the script, finish here. Proceed to using MHWD. Otherwise, continue.
 5. Clone this repository and cd into it's folder.
 
         git clone https://github.com/NightH4nter/mhwd-kernel.git
