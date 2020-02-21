@@ -7,7 +7,7 @@ I do not own the script. Copyright goes to it's authors (Joshua and some more pe
 Some screenshots here: https://imgur.com/gallery/7gA7esT.
 
 
-Usage:
+Installation:
 1. Add Manjaro repo.
 
     1.1. Make a repository mirrorlist file /etc/pacman.d/mirrorlist-manjaro with one or more repository address. 
