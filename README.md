@@ -1,7 +1,7 @@
 # mhwd-kernel
-# From here: https://wiki.manjaro.org/index.php?title=Mhwd-kern.sh.
-# I do not own the script. Copyright goes to it's authors (Joshua and some more people).
-# Some screenshots here: https://imgur.com/gallery/7gA7esT.
+From here: https://wiki.manjaro.org/index.php?title=Mhwd-kern.sh.
+I do not own the script. Copyright goes to it's authors (Joshua and some more people).
+Some screenshots here: https://imgur.com/gallery/7gA7esT.
 
 Usage:
 1. Add Manjaro repo.
