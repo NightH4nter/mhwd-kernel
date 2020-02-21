@@ -26,4 +26,5 @@ Usage:
     # chmod +x mhwd-kern.sh
     # ./mhwd-kern.sh
 Done!
+
 You may also consider moving the script somewhere and/or making an alias for regular usage.
