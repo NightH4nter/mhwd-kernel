@@ -5,11 +5,13 @@
 
 Usage:
 1. Add Manjaro repo.
-  1.1. Make a repository mirrorlist file /etc/pacman.d/mirrorlist-manjaro with one or more repository address. 
+
+    1.1. Make a repository mirrorlist file /etc/pacman.d/mirrorlist-manjaro with one or more repository address. 
        Address line example:
          Server = https://mirror.futureweb.be/manjaro/stable/core/$arch
        Manjaro repositories list can be found here: https://repo.manjaro.org/. It might be necessary to use one with updated Stable branch.
-  1.2. Add following to your /etc/pacman.conf:
+       
+    1.2. Add following to your /etc/pacman.conf:
          [core]
          Include = /etc/pacman.d/mirrorlist-manjaro
 2. Run sync-update:
