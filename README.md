@@ -7,8 +7,11 @@ Usage:
 1. Add Manjaro repo.
 
     1.1. Make a repository mirrorlist file /etc/pacman.d/mirrorlist-manjaro with one or more repository address. 
+    
        Address line example:
+       
          Server = https://mirror.futureweb.be/manjaro/stable/core/$arch
+         
        Manjaro repositories list can be found here: https://repo.manjaro.org/. It might be necessary to use one with updated Stable branch.
        
     1.2. Add following to your /etc/pacman.conf:
@@ -22,7 +25,9 @@ Usage:
     # pacman -S mhwd
    If you don't want to user the script, finish here. Proceed to using MHWD. Otherwise, continue.
 5. Clone this repository and cd into it's folder.
+
     $ git clone https://github.com/NightH4nter/mhwd-kernel.git
+    
     $ cd mhwd-kernel
 6. Make the script bootable and run it:
     # chmod +x mhwd-kern.sh
